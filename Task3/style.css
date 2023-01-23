@@ -1,0 +1,30 @@
+body{
+    background-color: rgb(177, 174, 174);
+}
+div{
+    background-color: white;
+    margin-top: 50px;
+    margin-left: 300px;
+    height: 500px;
+    width: 900px;
+}
+span{
+    font-size: 50px;
+    margin-left: 300px;
+}
+label{
+    margin-left: 50px;
+    font-size: 20px;
+}
+input{
+    margin-left: 50px;
+    width: 800px;
+    height: 40px;
+}
+button{
+    margin-left: 370px;
+    width: 140px;
+    height: 40px;
+    background-color: green;
+}
+

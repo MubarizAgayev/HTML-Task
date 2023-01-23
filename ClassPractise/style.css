@@ -1,0 +1,37 @@
+span{
+    color: blue;
+}
+.second-text{
+    color: red;
+}
+.first-text{
+    background-color: aliceblue;
+}
+#test{
+    color: blueviolet;
+}
+.box1{
+    width: 500px;
+    height: 400px;
+    background-color: magenta;
+}
+.box1 p{
+    color: white;
+}
+.box2{
+    width: 500px;
+    height: 400px;
+    background-color: magenta;
+}
+.box2 p{
+    color: blue;
+}
+.box3{
+    margin-top: 10px;
+    width: 500px;
+    height: 400px;
+    background-color: magenta;
+}
+.box3 a .link{
+    color: white;
+}
